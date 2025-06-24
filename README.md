@@ -40,8 +40,6 @@ Veri seti; yolcuların cinsiyeti, yaşı, uçuş mesafesi, uçuş sınıfı, gec
 
 Yapılan analizler, yolcu memnuniyetini en çok etkileyen faktörlerin uçuş sınıfı, uçuş mesafesi, gecikme süreleri ve yaş olduğunu göstermektedir. Proje süresince temel veri analizi teknikleriyle birlikte istatistiksel yorumlama ve görselleştirme becerileri de geliştirilmiştir.
 
-## 📋 Proje Sahibi
 
-**Zeynep Öktem Kaygusuz**  
 Veri Analizi Bootcamp | Kız Başına
 
